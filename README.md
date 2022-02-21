@@ -113,7 +113,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/vpc_1.PNG"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/vpc_2.jpeg">|
 | Cliente 3 | Cliente 4 |
-|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/topo_3.jpeg"> |  <img width="1604"  src="">|
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/vpc_3.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/vpc_4.jpeg">|
 | Cliente 5 |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/vpc_5.jpeg"> | 
 
@@ -126,7 +126,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 | Cliente 2 | Cliente 3 |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/obin_erick.PNG"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/obin_deivid.PNG">|
-| Cliente 4 | Cliente 5 |
+| **Cliente 4** | **Cliente 5** |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/obin_josue.PNG"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/obin_juandi.PNG">|
 
 - *_Cliente 2_*
@@ -134,7 +134,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 | Cliente 1 | Cliente 3 |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/erick_obin.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/erick_deivid.jpeg">|
-| Cliente 4 | Cliente 5 |
+| **Cliente 4** | **Cliente 5** |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/erick_zea.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/erick_juandi.jpeg">|
 
 - *_Cliente 3_*
@@ -142,7 +142,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 | Cliente 1 | Cliente 2 |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/deivid_obin.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/deivid_erick.jpeg">|
-| Cliente 4 | Cliente 5 |
+| **Cliente 4** | **Cliente 5** |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/deivid_zea.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/deivid_juandi.jpeg">|
 
 - *_Cliente 4_*
@@ -150,7 +150,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 | Cliente 1 | Cliente 2 |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/zea_obin.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/zea_erick.jpeg">|
-| Cliente 3 | Cliente 5 |
+| **Cliente 3** | **Cliente 5** |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/zea_deivid.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/zea_juandi.jpeg">|
 
 - *_Cliente 5_*
@@ -158,7 +158,7 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 | Cliente 1 | Cliente 2 |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/juandi_obin.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/juandi_erick.jpeg">|
-| Cliente 3 | Cliente 4 |
+| **Cliente 3** | **Cliente 4** |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/juandi_deivid.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/juandi_josue.jpeg">|
 
 
@@ -173,3 +173,5 @@ Las pruebas ping se realizaron desde las maquinas conectadas a la VPN que tenian
 |<img width="1604" src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/ping_1.PNG"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/ping_2.jpeg">|
 | **Cliente 3** | **Cliente 4**  |
 |<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/ping_3.jpeg"> |  <img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/ping_4.jpeg">|
+| **Cliente 5** |
+|<img width="1604"  src="https://github.com/DiiAns23/SoloImagenes/blob/main/Practica_1_Redes_1/ping_5.jpeg"> | 
