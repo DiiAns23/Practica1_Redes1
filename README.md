@@ -10,6 +10,3 @@
 | Deivid Alexander Lux Revolorio | 201549059 |
 | Josué David Zea Herrera| 201807159 | 
 | Juan Diego Alvarado Salguero | 201807335 |
-
-
-
